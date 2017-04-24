@@ -1,0 +1,8 @@
+./maryana07/maryana2.txt
+./maryana07/maryana3.txt
+./maryana2.txt
+./pasta2/2.txt
+./maryana1.txt
+./pasta3/pasta31/3.txt
+./pasta1/1.txt
+./maryana3.txt
